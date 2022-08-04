@@ -1,0 +1,7 @@
+body #no-obs {
+  display: none;
+}
+
+body.no-obs>#no-obs {
+  display: block;
+}
